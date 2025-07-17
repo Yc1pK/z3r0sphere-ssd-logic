@@ -1,5 +1,5 @@
 # z3r0sphere-ssd-logic
-CURRENTLY BEING BUILT ON IPHONE PC IS BROKEN, HENCE THE SHITTY REPO!!!!
+CURRENTLY BEING BUILT ON IPHONE 💀
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 A lightweight, hardware-friendly **cosine-similarity** kernel that projects vectors onto the unit sphere and computes their inner product. Ideal for edge AI, firmware inference, and any resource-constrained environment.
